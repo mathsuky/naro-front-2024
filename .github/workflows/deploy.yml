@@ -1,4 +1,3 @@
-# 引用元：https://ja.vitejs.dev/guide/static-deploy.html#github-pages
 # 静的コンテンツを GitHub Pages にデプロイするためのシンプルなワークフロー
 name: Deploy static content to Pages
 
