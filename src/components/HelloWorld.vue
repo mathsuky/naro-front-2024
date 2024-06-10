@@ -11,8 +11,8 @@ defineProps<{
   <div>
     <h1>{{ msg }}</h1>
     <ClickCounter />
+    <ClickCounter />
     <ItemList />
-    <ToDoList />
   </div>
 </template>
 
